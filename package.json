@@ -1,6 +1,6 @@
 {
   "name": "mathapi",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "Simple CRUD for a back-end study",
   "main": "index.js",
   "scripts": {
